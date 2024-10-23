@@ -1,0 +1,10 @@
+streamlit 
+PyPDF2 
+langchain
+pinecone
+beautifulsoup4
+google-generativeai
+python-dotenv
+langchain_google_genai
+langchain-community
+langchain_google
